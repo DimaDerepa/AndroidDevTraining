@@ -1,6 +1,6 @@
 # HelloWorld_1
 First project build in Android Studio.
-## Whats new:
+## What was done:
 1. Created first app in studio.
 2. Created virtual device.
 3. Resource added.
