@@ -1,4 +1,4 @@
-# Activity_2
+# TrafficLight
 First project build in Android Studio.
 ## What was done or new for me:
 1. Worked with variables, types and their view aria.
