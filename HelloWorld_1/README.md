@@ -7,5 +7,6 @@ First project build in Android Studio.
 4. Work with layout.
 5. Find out app structure.
 6. HelloWorld app builded and ran in virtual device.
+
 ![HelloWorld Screenshot](HelloWorld_1.jpg)
 
